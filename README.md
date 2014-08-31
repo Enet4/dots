@@ -9,7 +9,7 @@ the included pdf document.
 
 A custom Makefile is available for compiling the program with GCC. The program requires GLU and freeglut to build and run. C++11 support in GCC must be available.
 
-### Running
+## Running
 
 When running *dots*, the program will try to read the *config.txt*
 file, situated in the same folder. The file contains many vital
@@ -28,16 +28,16 @@ of the Dot is shown in the console.
 
 Controls:
 
-Space Bar: Pause or Resume the simulation.
++ Space Bar: Pause or Resume the simulation.
 It also shows some statistics through console output.
 
-+ / - : Increase / Decrease the simulation speed. By keeping
++ + / - : Increase / Decrease the simulation speed. By keeping
 Shift presssed, you can increase/decrease the speed by 10
 steps per second instead of 1. Initial speed is 4 steps per second.
 
-Esc: Terminate the program.
++ Esc: Terminate the program.
 
-#### License
+## License
 
 MIT
 
