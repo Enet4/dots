@@ -1,0 +1,7 @@
+*.o
+autom4te.cache
+config.status
+config.log
+bin/dots
+src/.deps
+src/.dirstamp
